@@ -1,0 +1,2 @@
+Este é um projeto de um modelo de banco de dados conceitual, apresentado originalmente pela DIO como desafio de projeto, e refinado por mim. A ideia é um banco de dados simples para um E-commerce. 
+Neste projeto foi utilizada a ferramenta MySql Workbench.

@@ -1,2 +1,2 @@
 # Dio-DataScientis
-BootCamp Ciencia de Dados Dio / Unimed BH
+Projetos do excelente curso da Dio/UnimedBH
